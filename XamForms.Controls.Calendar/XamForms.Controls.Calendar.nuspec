@@ -1,0 +1,20 @@
+<?xml version="2.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>gCalendar</title>
+    <authors>rebeccaXam, Glintt</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/Asura14/XamForms.Controls.Calendar/tree/master</licenseUrl>
+    <projectUrl>https://github.com/Asura14/XamForms.Controls.Calendar/tree/master</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Based on rebeccaXam's Calendar Nuget with minor additions</description>
+    <releaseNotes>Minor changes to original package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Calendar</tags>
+  </metadata>
+  <files> <file src="..\XamForms.Controls.Calendar.Droid\**\*.*" target="libs\net461" /> </files>
+  <files> <file src="..\XamForms.Controls.Calendar.iOS\**\*.*" target="libs\net461" /> </files>
+</package>

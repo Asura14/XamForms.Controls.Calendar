@@ -14,7 +14,7 @@ namespace XamForms.Controls
 		List<CalendarButton> yearButtons;
 		double w, h;
 
-		public DateTypeEnum CalendarViewType { get; protected set; }
+		public DateTypeEnum CalendarViewType { get; set; }
 
 		public void PrevMonthYearView()
 		{

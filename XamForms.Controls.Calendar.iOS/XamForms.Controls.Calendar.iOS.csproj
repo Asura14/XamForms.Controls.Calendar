@@ -58,9 +58,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamForms.Controls.Calendar\XamForms.Controls.Calendar.csproj">
+    <ProjectReference Include="..\XamForms.Controls.Calendar\XamForms.Controls.gCalendar.csproj">
       <Project>{da721ed1-72ed-43ef-b909-ff4f037d6549}</Project>
-      <Name>XamForms.Controls.Calendar</Name>
+      <Name>XamForms.Controls.gCalendar</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
